@@ -1,8 +1,8 @@
-[![Header](https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/readme_header.png "Header")](https://www.linkedin.com/in/usuario/)
+[![Header](https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/readme_header.png "Header")](https://www.linkedin.com/in/usuario/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=javierxhernandez.visitor-badge)
 
-# <img src="https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/hello.gif" width="30px"> Hello!
+# <img src="https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/hello.gif" width="30px"> Hello!
 
 My name is Javier Hernández and I'm a Full Stack Web Developer / System Engineer. I'm from Venezuela and I like technologies, programming languages, design, video edition and computer solutions. I Always want to learn new things. You can find me on 
   <div align="left">
