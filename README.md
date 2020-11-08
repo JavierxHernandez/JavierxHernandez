@@ -1,12 +1,12 @@
-[![Header](https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/readme_header.png "Header")](https://www.linkedin.com/in/usuario/)
+[![Header](https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/readme_header.png "Javier's Header")](https://www.linkedin.com/in/javier-hernández-14424a186/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=javierxhernandez.visitor-badge)
 
-# <img src="https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/hello.gif" width="30px"> Hello!
+# <img src="https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/hello.gif" width="30px alt="Javier's Hello"> Hello!
 
 My name is Javier Hernández and I'm a Full Stack Web Developer / System Engineer. I'm from Venezuela and I like technologies, programming languages, design, video edition and computer solutions. I Always want to learn new things. You can find me on 
   <div align="left">
-  <a href="https://www.linkedin.com/in/usuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/javier-hernández-14424a186/" target="_blank">
     <img alt="Javier's linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg">
   </a>
   <a href="https://www.instagram.com/javierhehe/" target="_blank">
@@ -16,7 +16,7 @@ My name is Javier Hernández and I'm a Full Stack Web Developer / System Enginee
     <img alt="Javier's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/facebook.svg">
   </a>
   <a href="mailto:javierxhernandezx@gmail.com" mailto="javierxhernandezx@gmail.com" target="_blank">
-    <img alt="Javier's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg">
+    <img alt="Javier's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg">
   </a>
   </div>
 
@@ -39,7 +39,7 @@ My name is Javier Hernández and I'm a Full Stack Web Developer / System Enginee
 ## :bar_chart: GitHub Stats
 
 <a href="https://github.com/JavierxHernandez/JavierxHernandez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierxHernandez&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=007cc7&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierxHernandez&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=007cc7&bg_color=1d1f21" alt="Javier's GitHub Stats" />
 </a>
 <a href="https://github.com/JavierxHernandez/JavierxHernandez">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JavierxHernandez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=007cc7&bg_color=1d1f21" alt="Javier's GitHub Stats" />
