@@ -6,13 +6,13 @@
 
 My name is Javier Hernandez, I'm a systems engineer and web developer. I'm from Venezuela, I like to be aware of new technologies, programming languages and software solutions. I always want to learn new things😃, You can find me on:
   <div align="center">
-  <a href="https://www.linkedin.com/in/javier-hernández-14424a186/" target="_blank">
+  <a href="https://www.linkedin.com/in/javierxhernandez/" target="_blank">
     <img alt="Javier's linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg">
   </a>
   <a href="https://www.instagram.com/javierhehe/" target="_blank">
     <img alt="Javier's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/instagram.svg">
   </a>
-  <a href="https://www.facebook.com/ijavierhernandez" target="_blank">
+  <a href="https://www.facebook.com/xJavierxHernandez/" target="_blank">
     <img alt="Javier's facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/facebook.svg">
   </a>
   <a href="mailto:javierxhernandezx@gmail.com" mailto="javierxhernandezx@gmail.com" target="_blank">
