@@ -5,7 +5,7 @@
 # <img src="https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/hello.gif" width="30px" alt="Javier's Hello"> Hello!
 
 My name is Javier Hernandez, I'm a systems engineer and web developer. I'm from Venezuela, I like to be aware of new technologies, programming languages and software solutions. I always want to learn new things😃, You can find me on:
-  <div align="left">
+  <div align="center">
   <a href="https://www.linkedin.com/in/javier-hernández-14424a186/" target="_blank">
     <img alt="Javier's linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg">
   </a>
