@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/readme_header.png "Javier's Header")](https://www.linkedin.com/in/javier-hernández-14424a186/)
+[![Header](https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/readme_header.png "Javier's Header")](https://www.linkedin.com/in/javierxhernandez/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=javierxhernandez.visitor-badge)
 
