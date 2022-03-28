@@ -15,7 +15,7 @@ My name is Javier Hernandez, I'm a systems engineer and web developer. I'm from 
   <a href="https://www.facebook.com/xJavierxHernandez/" target="_blank">
     <img alt="Javier's facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/facebook.svg">
   </a>
-  <a href="mailto:javierxhernandezx@gmail.com" mailto="javierxhernandezx@gmail.com" target="_blank">
+  <a href="https://twitter.com/Javierhehe" target="_blank">
     <img alt="Javier's Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/twitter.svg">
   </a>
   <a href="mailto:javierxhernandezx@gmail.com" mailto="javierxhernandezx@gmail.com" target="_blank">
