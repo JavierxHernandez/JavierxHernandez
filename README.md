@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=javierxhernandez.visitor-badge)
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/hello.gif" width="30px" alt="Javier's Hello">, I'm Javier Hernández</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/hello.gif" height="40px" alt="Javier's Hello">, I'm Javier Hernández</h1>
 <h3 align="center">A passionate Web developer from Venezuela</h3>
 
 ## :memo:  About Me
