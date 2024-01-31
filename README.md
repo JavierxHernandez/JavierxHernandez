@@ -1,7 +1,5 @@
 [![Header](https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/readme_header.png "Javier's Header")](https://www.linkedin.com/in/javierxhernandez/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=javierxhernandez.visitor-badge)
-
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/hello.gif" height="40px" alt="Javier's Hello">, I'm Javier Hernández</h1>
 <h3 align="center">A passionate Web developer from Venezuela</h3>
 
@@ -15,10 +13,10 @@ I'm a systems engineer, I like to be aware of new technologies, programming lang
 ## :iphone: Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/javierxhernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javierxhernandez" height="30" width="40" /></a>
-<a href="https://fb.com/xjavierxhernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xjavierxhernandez" height="30" width="40" /></a>
-<a href="https://instagram.com/javierhehe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javierhehe" height="30" width="40" /></a>
-<a href="https://twitter.com/javierhehe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javierhehe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/javierxhernandez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javierxhernandez" height="30" width="40" /></a>
+<a href="https://fb.com/xjavierxhernandez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xjavierxhernandez" height="30" width="40" /></a>
+<a href="https://instagram.com/javierhehe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javierhehe" height="30" width="40" /></a>
+<a href="https://twitter.com/javierhehe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javierhehe" height="30" width="40" /></a>
 </p>
 
 ## :computer: Languages and Tools
