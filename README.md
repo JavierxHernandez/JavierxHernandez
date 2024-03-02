@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/readme_header.png "Javier's Header")](https://www.linkedin.com/in/javierxhernandez/)
+<!-- [![Header](https://raw.githubusercontent.com/JavierxHernandez/javierxhernandez/main/resources/readme_header.png "Javier's Header")](https://www.linkedin.com/in/javierxhernandez/) -->
 
 # 💫 About Me:
 <br>Passionate Systems Engineer with over 5 years of experience in software development. I specialize in creating scalable and efficient solutions through the use of the latest technologies. Passionate about continuous learning, I stay abreast of the industry's latest trends to deliver innovative and high-quality results.
