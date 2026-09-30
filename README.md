@@ -3,21 +3,25 @@
   <img alt="whoami: Javier Hernández, Systems Engineer and full-stack developer" src="assets/banner-light.svg" width="100%">
 </picture>
 
-### What I work on
+I build SaaS backends end to end: the schema, the billing flows, the integrations and the data migrations that bring customers over from their old systems. I work remotely from Venezuela (UTC−4) and have worked with teams across Europe and Latin America.
 
-- SaaS platforms built on Laravel, including multi-tenant apps
-- APIs and microservices in PHP and TypeScript
-- Data pipelines and migrations in Python
-- Docker environments and cloud infrastructure on AWS and GCP
+### Things I've built
+
+- Multi-tenant SaaS on Laravel, one database per tenant
+- Billing: invoices, installment plans and SEPA direct debit files
+- Payment integrations with Stripe and MercadoPago, including webhooks and disputes
+- An offline sync API for a field-service mobile app
+- Microservices behind an API gateway, running on Kubernetes
+- Data migrations from legacy systems (SQL Server, Access, Excel) with Python, BigQuery and Dagster
 
 ### Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img alt="PHP, Laravel, Node.js, TypeScript, Python, Next.js, Vue, MySQL, PostgreSQL, Redis, Docker, AWS, Google Cloud" src="assets/stack-light.svg">
+  <img alt="PHP, Laravel, Node.js, TypeScript, Python, Go, Next.js, Vue, Tailwind, MySQL, PostgreSQL, Supabase, Redis, Docker, Kubernetes, AWS, Google Cloud" src="assets/stack-light.svg">
 </picture>
 
-<sub>Plus Livewire and Filament on the Laravel side.</sub>
+<sub>Plus Livewire, Filament and Pest on the Laravel side.</sub>
 
 ### Contributions
 
